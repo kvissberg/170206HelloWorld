@@ -6,6 +6,7 @@ public class Main {
 
         //max gör en kommentar här för å se om de funkar...
         // thomas hälsar att det funkar!
+        //funkar fortfarande
 
         System.out.println("hello world");
     }
